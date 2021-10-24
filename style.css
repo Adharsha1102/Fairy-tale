@@ -309,6 +309,9 @@ body {
     .divga {
         float:left;
     }
+    .texted {
+        color: black;
+    }
 
     .open-book header:before,
     .open-book footer:before {
