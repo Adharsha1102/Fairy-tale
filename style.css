@@ -60,6 +60,7 @@ body {
     background: rgba(222, 255, 0, 0.75);
 }
 
+
 .open-book *::selection {
     background: rgba(222, 255, 0, 0.75);
 }
